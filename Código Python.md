@@ -1,3 +1,6 @@
+## Código funcional
+
+```c
 
 FILAS = 2
 COLUMNAS = 3
