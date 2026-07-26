@@ -1,3 +1,6 @@
+## Código funcional
+
+```c
 
 import java.util.Scanner;
 
@@ -74,3 +77,5 @@ class APE {
         System.out.println();
     }
 }
+
+```
